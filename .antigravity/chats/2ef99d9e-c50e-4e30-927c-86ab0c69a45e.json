@@ -1,0 +1,8 @@
+{
+  "sessionId": "2ef99d9e-c50e-4e30-927c-86ab0c69a45e",
+  "name": "sudo -u postgres psql -d dds",
+  "createdAt": "2026-10-25T07:18:04.835Z",
+  "filename": "2ef99d9e-c50e-4e30-927c-86ab0c69a45e.json",
+  "geminiStarted": false,
+  "messages": []
+}
